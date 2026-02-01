@@ -1,4 +1,4 @@
-# Ekran Görüntülerini Kaydetmek ve Not Tutmak İçin Bir Google Eklentisi
+# Ekran Görüntülerini Kaydetmek ve Not Tutmak İçin Bir Google Chrome Eklentisi
 
 <p align="left"> 
     <a href="https://www.instagram.com/umutyalcine?igsh=c21xZ2psNG56cHN5" target="_blank">
