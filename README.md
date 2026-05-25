@@ -21,17 +21,16 @@
 
 ---
 
-### Ekran Görüntülerinden Metin İle Not Alın: Tek Tıkla
-Bu Chrome eklentisi ile ekran görüntülerinizdeki metinleri kolayca not haline getirin.
+### Ekran Görüntülerinden yazı ve görsel ile not alın
+Bu eklenti ile birlikte ekran görüntülerinizi not alıp kaydedin
 
-Tam Ekran Görüntüsü: Açık olan sayfanın tamamını yakalayın.
-Alan Seçimi: Sadece istediğiniz bölgeyi seçerek kırpın.
-Otomatik OCR: Görüntüdeki tüm metinler anında tanınır ve çıkarılır.
-Bu eklenti, araştırma yaparken veya bilgi toplarken zamandan tasarruf etmenizi sağlıyor. Etiketleme ve arama özellikleriyle notlarınıza hızlıca ulaşabilirsiniz.
+Ekran Görüntüsü: Açık olan sayfanın istediğiniz kısmının ekran görüntüsünü alabilirsiniz.
+Otomatik OCR: Görüntüdeki tüm görseller ve metinler eksiksiz bir şekilde uygulanır.
+Bu eklenti araştırma yaparken veya bilgi toplarken zamandan tasarruf etmenizi sağlar.. Etiketleme ve arama özellikleriyle notlarınıza hızlıca ulaşabilirsiniz.
 
 ---
 
-### Extract Text from Screenshots Instantly: One Click 
+### Extract Text from Screenshots Instantly
 I'm building this Chrome extension to easily turn your screenshots into notes.
 
 Full Screen Capture: Capture the entire visible page.
