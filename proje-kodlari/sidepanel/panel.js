@@ -161,18 +161,23 @@ class GrabText {
 
     async extractText(imageDataUrl) {
         try {
-            const result = await Tesseract.recognize(
-                imageDataUrl,
-                'tur+eng',
-                {
-                    logger: (m) => {
-                        if (m.status === 'recognizing text') {
-                            const percent = Math.round(m.progress * 100);
-                            document.getElementById('loadingText').textContent = `Metin çıkarılıyor... %${percent}`;
-                        }
+            const worker = await Tesseract.createWorker({
+                workerPath: chrome.runtime.getURL('scripts/tesseract/worker.min.js'),
+                corePath: chrome.runtime.getURL('scripts/tesseract/'),
+                langPath: 'https://tessdata.projectnaptha.com/4.0.0_fast/',
+                workerBlobURL: false,
+                logger: (m) => {
+                    if (m.status === 'recognizing text') {
+                        const percent = Math.round(m.progress * 100);
+                        document.getElementById('loadingText').textContent = `Metin çıkarılıyor... %${percent}`;
                     }
                 }
-            );
+            });
+
+            await worker.loadLanguage('tur+eng');
+            await worker.initialize('tur+eng');
+            const result = await worker.recognize(imageDataUrl);
+            await worker.terminate();
 
             document.getElementById('extractedText').value = result.data.text.trim();
             this.showLoading(false);
