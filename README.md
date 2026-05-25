@@ -9,14 +9,14 @@
 ## Eklenti ile alakalı birkaç ekran görüntüsü / A few screenshots related to the extension
 
 <p align="center">
-    <img src="arayüz1.png" alt="1" width="300" style="margin-right: 10px;"/> 
-    <img src="aydınlıkarayüz.png" alt="2" width="300"/>
-    <img src="kaydetmek1.png" alt="3" width="300"/>
-    <img src="kırpılmışaydınlık1.png" alt="4" width="300"/>
-    <img src="kırpılmışgörüntü2.png" alt="5" width="300"/>
-    <img src="listeleme1.png" alt="1" width="300" style="margin-right: 10px;"/> 
-    <img src="seçiciekrangörüntüsü.png" alt="2" width="300"/>
-    <img src="ssrf.png" alt="2" width="300"/>
+    <img src="ekran-goruntuleri/arayüz1.png" alt="1" width="300" style="margin-right: 10px;"/> 
+    <img src="ekran-goruntuleri/aydınlıkarayüz.png" alt="2" width="300"/>
+    <img src="ekran-goruntuleri/kaydetmek1.png" alt="3" width="300"/>
+    <img src="ekran-goruntuleri/kırpılmışaydınlık1.png" alt="4" width="300"/>
+    <img src="ekran-goruntuleri/kırpılmışgörüntü2.png" alt="5" width="300"/>
+    <img src="ekran-goruntuleri/listeleme1.png" alt="1" width="300" style="margin-right: 10px;"/> 
+    <img src="ekran-goruntuleri/seçiciekrangörüntüsü.png" alt="2" width="300"/>
+    <img src="ekran-goruntuleri/ssrf.png" alt="2" width="300"/>
 </p>
 
 ---
