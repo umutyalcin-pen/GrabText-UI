@@ -30,12 +30,11 @@ Bu eklenti araştırma yaparken veya bilgi toplarken zamandan tasarruf etmenizi 
 
 ---
 
-### Extract Text from Screenshots Instantly
-I'm building this Chrome extension to easily turn your screenshots into notes.
+### Take notes with text and images from screenshots
+Take notes and save your screenshots with this extension
 
-Full Screen Capture: Capture the entire visible page.
-Area Selection: Select and crop only the region you need.
-Automatic OCR: All text in the image is instantly recognized and extracted.
+Screenshot: You can take a screenshot of any part of the open page you want.
+Automatic OCR: All visuals and texts in the image are extracted completely.
 This extension helps you save time while researching or collecting information. With tagging and search features, you can quickly access your notes.
 
 ---
