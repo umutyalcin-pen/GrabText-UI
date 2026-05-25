@@ -24,9 +24,9 @@
 ### Ekran Görüntülerinden yazı ve görsel ile not alın
 Bu eklenti ile birlikte ekran görüntülerinizi not alıp kaydedin
 
-Ekran Görüntüsü: Açık olan sayfanın istediğiniz kısmının ekran görüntüsünü alabilirsiniz.
+Ekran Görüntüsü, Açık olan sayfanın istediğiniz kısmının ekran görüntüsünü alabilirsiniz.
 
-Otomatik OCR: Görüntüdeki tüm görseller ve metinler eksiksiz bir şekilde uygulanır.
+Otomatik OCR, Görüntüdeki tüm görseller ve metinler eksiksiz bir şekilde uygulanır.
 
 Bu eklenti araştırma yaparken veya bilgi toplarken zamandan tasarruf etmenizi sağlar.. Etiketleme ve arama özellikleriyle notlarınıza hızlıca ulaşabilirsiniz.
 
@@ -35,9 +35,9 @@ Bu eklenti araştırma yaparken veya bilgi toplarken zamandan tasarruf etmenizi 
 ### Take notes with text and images from screenshots
 Take notes and save your screenshots with this extension
 
-Screenshot: You can take a screenshot of any part of the open page you want.
+Screenshot, You can take a screenshot of any part of the open page you want.
 
-Automatic OCR: All visuals and texts in the image are extracted completely.
+Automatic OCR, All visuals and texts in the image are extracted completely.
 
 This extension helps you save time while researching or collecting information. With tagging and search features, you can quickly access your notes.
 
